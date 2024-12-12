@@ -1,0 +1,242 @@
+[
+    {
+        "product_id": "P001",
+        "product_title": "Dell XPS 13",
+        "product_image": "https://i.ibb.co.com/FK0BX56/YIHa-Arqqp5-Ndn-QDP4wm-TKSGAptgv-GYq-YPVXw-Ei-Ju-removebg-preview.png",
+        "category": "Computers",
+        "price": 999.99,
+        "description": "A high-performance laptop with a stunning display.",
+        "Specification": [
+            "Intel i7 Processor",
+            "16GB RAM",
+            "512GB SSD",
+            "13.4 inch FHD Display"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "P002",
+        "product_title": "IPhone 14 Pro",
+        "product_image": "https://i.ibb.co.com/kH4CRsY/i-Phone-14-Pro-Deep-Purple-7300-removebg-preview.png",
+        "category": "Phones",
+        "price": 1099.99,
+        "description": "The latest iPhone with advanced camera and performance.",
+        "Specification": [
+            "A16 Bionic Chip",
+            "6GB RAM",
+            "128GB Storage",
+            "6.1 inch Super Retina XDR"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": "P003",
+        "product_title": "Samsung Galaxy Watch 5",
+        "product_image": "https://i.ibb.co.com/WcL7qyC/Galaxy-Watch5-graphite-custom-mac-bd-540x-removebg-preview.png",
+        "category": "Smart Watches",
+        "price": 299.99,
+        "description": "A smart watch with health monitoring features.",
+        "Specification": [
+            "Bluetooth 5.2",
+            "GPS",
+            "Heart Rate Monitor",
+            "1.4 inch Super AMOLED"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "P004",
+        "product_title": "Anker PowerCore 10000",
+        "product_image": "https://i.ibb.co.com/3mKTrwL/MPB-V3-001-A-jpg.webp",
+        "category": "Power Banks",
+        "price": 296.99,
+        "description": "A compact power bank with high capacity.",
+        "Specification": [
+            "10000mAh Capacity",
+            "Fast Charging",
+            "Lightweight",
+            "Dual USB Output"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "P005",
+        "product_title": "Razer Blade 15",
+        "product_image": "https://i.ibb.co.com/7G1w8p4/razerblade-15-advanced-model-6fe50a81-b8e8-4bc5-b234-9e03ab5f3d2a-540x.webp",
+        "category": "Computers",
+        "price": 1999.99,
+        "description": "A powerful gaming laptop with a sleek design.",
+        "Specification": [
+            "Intel i7 Processor",
+            "32GB RAM",
+            "1TB SSD",
+            "15.6 inch 4K OLED"
+        ],
+        "availability": false,
+        "rating": 4.9
+    },
+    {
+        "product_id": "P006",
+        "product_title": "Google Pixel 7",
+        "product_image": "https://i.ibb.co.com/cJD20ww/Google-Pixel-7-Pro-Hazel-Featured-scaled-600x600-removebg-preview.png",
+        "category": "Phones",
+        "price": 599.99,
+        "description": "A smartphone with an exceptional camera and software.",
+        "Specification": [
+            "Google Tensor Chip",
+            "8GB RAM",
+            "128GB Storage",
+            "6.3 inch FHD+ Display"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "P007",
+        "product_title": "Apple Watch Series 8",
+        "product_image": "https://i.ibb.co.com/n7YZ7T8/Apple-Watch-Series-8-Succulent-Custom-Mac-BD-540x-removebg-preview.png",
+        "category": "Smart Watches",
+        "price": 399.99,
+        "description": "A smart watch with advanced health and fitness tracking.",
+        "Specification": [
+            "Always-On Retina Display",
+            "Blood Oxygen Monitoring",
+            "GPS",
+            "Water Resistant"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "P008",
+        "product_title": "Belkin Boost Up Charger",
+        "product_image": "https://i.ibb.co.com/PgRchpm/PA-Y25-WH-2-removebg-preview.png",
+        "category": "Chargers",
+        "price": 39.99,
+        "description": "A wireless charger for fast charging your devices.",
+        "Specification": [
+            "10W Fast Charging",
+            "Compatible with Qi-enabled devices",
+            "LED Indicator",
+            "Compact Design"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": " P009",
+        "product_title": "Sony WH-1000XM4",
+        "product_image": "https://i.ibb.co.com/hcbLWKp/q5gy2-RSo-RIw-Rm-FPLELLX2bu5e3-XUCBPH8-Dtxj-VGN-removebg-preview.png",
+        "category": "Headphones",
+        "price": 349.99,
+        "description": "Noise-canceling headphones with exceptional sound quality.",
+        "Specification": [
+            "30 hours battery life",
+            "Touch sensor controls",
+            "Voice assistant compatibility",
+            "Lightweight design"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "P010",
+        "product_title": "Lenovo Yoga 9i",
+        "product_image": "https://i.ibb.co.com/WBgPG5g/Lenovo-Yoga-Book-9i-8-82-YQ0049-IN-Core-i7-13th-Gen-OLED-Touch-Display-Laptop-600x600-removebg-previ.png",
+        "category": "Laptops",
+        "price": 1399.99,
+        "description": "A versatile 2-in-1 laptop with premium features.",
+        "Specification": [
+            "Intel i7 Processor",
+            "16GB RAM",
+            "512GB SSD",
+            "14 inch 4K Display"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "P011",
+        "product_title": "OnePlus 10 Pro",
+        "product_image": "https://i.ibb.co.com/WkdSdSL/EU-IN-Green.png",
+        "category": "Phones",
+        "price": 899.99,
+        "description": "A flagship smartphone with a stunning display and camera.",
+        "Specification": [
+            "Snapdragon 8 Gen 1",
+            "8GB RAM",
+            "256GB Storage",
+            "6.7 inch AMOLED Display"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "P012",
+        "product_title": "Garmin Forerunner 245",
+        "product_image": "https://i.ibb.co.com/zJ4s9hZ/cf-lg-68fc3b16-996d-47fc-8b75-fe7c6c9ac50d-removebg-preview.png",
+        "category": "Fitness Trackers",
+        "price": 349.99,
+        "description": "A GPS running watch with advanced training features.",
+        "Specification": [
+            "GPS and Heart Rate Monitor",
+            "Music Storage",
+            "Smart Notifications",
+            "Long Battery Life"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "P013",
+        "product_title": "Aukey 20W USB-C Charger",
+        "product_image": "https://i.ibb.co.com/PgRchpm/PA-Y25-WH-2-removebg-preview.png",
+        "category": "Chargers",
+        "price": 19.99,
+        "description": "A compact charger with fast charging capabilities.",
+        "Specification": [
+            "20W Power Delivery",
+            "Compact Design",
+            "Compatible with various devices",
+            "Built-in safety features"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "P014",
+        "product_title": "Xiaomi Mi Power Bank 3",
+        "product_image": "https://i.ibb.co.com/3mKTrwL/MPB-V3-001-A-jpg.webp",
+        "category": "Power Banks",
+        "price": 291.99,
+        "description": "A high-capacity power bank with dual output.",
+        "Specification": [
+            "10000mAh Capacity",
+            "Dual USB Output",
+            "Fast Charging",
+            "Compact Design"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "P015",
+        "product_title": "HP Spectre x360",
+        "product_image": "https://i.ibb.co.com/NTPmHFb/SPECTRE-X360-Convertible-14-e2027-TU-2-removebg-preview.png",
+        "category": "Laptops",
+        "price": 1399.99,
+        "description": "A premium convertible laptop with a stunning design.",
+        "Specification": [
+            "Intel i7 Processor",
+            "16GB RAM",
+            "1TB SSD",
+            "13.3 inch 4K OLED Display"
+        ],
+        "availability": true,
+        "rating": 4.9
+    }
+]

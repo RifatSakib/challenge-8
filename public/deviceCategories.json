@@ -1,0 +1,42 @@
+[
+    {
+        "product_id": "C001",
+        "category": "All Products"
+    },
+    {
+        "product_id": "C002",
+        "category": "Computers"
+    },
+    {
+        "product_id": "C003",
+        "category": "Phones"
+    },
+    {
+        "product_id": "C004",
+        "category": "Smart Watches"
+    },
+    {
+        "product_id": "C005",
+        "category": "Power Banks"
+    },
+    {
+        "product_id": "C006",
+        "category": "Laptops"
+    },
+    {
+        "product_id": "C007",
+        "category": "Headphones"
+    },
+    {
+        "product_id": "C008",
+        "category": "Fitness Trackers"
+    },
+    {
+        "product_id": "C009",
+        "category": "Chargers"
+    },
+    {
+        "product_id": "C010",
+        "category": "TWS"
+    }
+]
